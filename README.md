@@ -10,5 +10,3 @@ Admins can add/remove bikes and monitor inventory, while users register, browse 
 
 
 ![1745210178662](https://github.com/user-attachments/assets/feb0c430-6fd5-438c-b387-130c994661f2)
-
-![1745210194384](https://github.com/user-attachments/assets/a33b34d9-f44d-4c1b-9e18-5cde9da1f0f4)
